@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Tannaz Samiyan 👋
 
-<!--
-**samiyantannaz1/samiyantannaz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Front-End Developer
 
-Here are some ideas to get you started:
+I am a Front-End Developer passionate about building modern, responsive and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in React, TypeScript, JavaScript and modern UI development.
+
+## 🚀 Skills
+
+- React.js
+- TypeScript
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Bootstrap
+- Responsive Design
+- REST API
+- Git & GitHub
+- Vite
+
+## 💻 Featured Projects
+
+### 🛒 DigiShop
+Next.js + React + Responsive E-commerce Website
+
+### 🛍️ ShopFlow
+React + TypeScript + Tailwind CSS E-commerce Application
+
+### 🎓 EduFlow CMS
+React + REST API + CRUD Dashboard
+
+## 🌐 Portfolio
+
+Visit my portfolio:
+
+https://samiyantannaz1.github.io/tannaz-portfolio/
+
+## 📫 Contact
+
+LinkedIn:
+https://www.linkedin.com/in/tannaz-samiyan-69a884395/
+
+GitHub:
+https://github.com/samiyantannaz1
+
+---
+
+⭐ Always learning and improving my skills in Front-End Development.

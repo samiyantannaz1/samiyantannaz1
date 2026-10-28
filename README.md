@@ -45,6 +45,9 @@ https://www.linkedin.com/in/tannaz-samiyan-69a884395/
 GitHub:
 https://github.com/samiyantannaz1
 
+Portfolio: 
+ https://tannazsamiyan.com/
+
 ---
 
 ⭐ Always learning and improving my skills in Front-End Development.

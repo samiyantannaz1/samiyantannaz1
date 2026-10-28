@@ -19,6 +19,7 @@ I specialize in React, TypeScript, JavaScript and modern UI development.
 * REST API
 * Git & GitHub
 * Vite
+  
 ## 💻 Featured Projects
 
 ### 🛒 DigiShop

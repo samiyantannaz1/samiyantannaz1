@@ -35,7 +35,7 @@ React + REST API + CRUD Dashboard
 
 Visit my portfolio:
 
-https://samiyantannaz1.github.io/tannaz-portfolio/
+ https://tannazsamiyan.com/
 
 ## 📫 Contact
 
@@ -44,9 +44,6 @@ https://www.linkedin.com/in/tannaz-samiyan-69a884395/
 
 GitHub:
 https://github.com/samiyantannaz1
-
-Portfolio: 
- https://tannazsamiyan.com/
 
 ---
 

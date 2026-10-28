@@ -8,17 +8,17 @@ I specialize in React, TypeScript, JavaScript and modern UI development.
 
 ## 🚀 Skills
 
-- React.js
-- TypeScript
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Bootstrap
-- Responsive Design
-- REST API
-- Git & GitHub
-- Vite
-
+React.js  
+Next.js  
+TypeScript  
+JavaScript (ES6+)  
+HTML5  
+CSS3  
+Bootstrap  
+Responsive Design  
+REST API  
+Git & GitHub  
+Vite  
 ## 💻 Featured Projects
 
 ### 🛒 DigiShop
